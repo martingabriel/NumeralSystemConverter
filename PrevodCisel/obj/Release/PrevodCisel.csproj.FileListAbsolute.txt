@@ -1,0 +1,13 @@
+C:\Users\Martin\documents\visual studio 2013\Projects\PrevodCisel\PrevodCisel\bin\Release\PrevodCisel.exe.config
+C:\Users\Martin\documents\visual studio 2013\Projects\PrevodCisel\PrevodCisel\bin\Release\PrevodCisel.exe
+C:\Users\Martin\documents\visual studio 2013\Projects\PrevodCisel\PrevodCisel\bin\Release\PrevodCisel.pdb
+C:\Users\Martin\documents\visual studio 2013\Projects\PrevodCisel\PrevodCisel\obj\Release\PrevodCisel.csprojResolveAssemblyReference.cache
+C:\Users\Martin\documents\visual studio 2013\Projects\PrevodCisel\PrevodCisel\obj\Release\MainWindow.baml
+C:\Users\Martin\documents\visual studio 2013\Projects\PrevodCisel\PrevodCisel\obj\Release\MainWindow.g.cs
+C:\Users\Martin\documents\visual studio 2013\Projects\PrevodCisel\PrevodCisel\obj\Release\App.g.cs
+C:\Users\Martin\documents\visual studio 2013\Projects\PrevodCisel\PrevodCisel\obj\Release\PrevodCisel_MarkupCompile.cache
+C:\Users\Martin\documents\visual studio 2013\Projects\PrevodCisel\PrevodCisel\obj\Release\PrevodCisel.g.resources
+C:\Users\Martin\documents\visual studio 2013\Projects\PrevodCisel\PrevodCisel\obj\Release\PrevodCisel.Properties.Resources.resources
+C:\Users\Martin\documents\visual studio 2013\Projects\PrevodCisel\PrevodCisel\obj\Release\PrevodCisel.csproj.GenerateResource.Cache
+C:\Users\Martin\documents\visual studio 2013\Projects\PrevodCisel\PrevodCisel\obj\Release\PrevodCisel.exe
+C:\Users\Martin\documents\visual studio 2013\Projects\PrevodCisel\PrevodCisel\obj\Release\PrevodCisel.pdb
